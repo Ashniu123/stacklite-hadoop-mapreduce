@@ -4,3 +4,4 @@ output/
 out/
 input/*.txt
 .vscode/
+python/input
