@@ -1,0 +1,6 @@
+target/
+output/
+!output/.gitkeep
+out/
+input/*.txt
+.vscode/
